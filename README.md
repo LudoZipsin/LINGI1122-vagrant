@@ -44,7 +44,7 @@ vagrant up
 
 ## Utilisation
 
-Voilà, après pas mal de temps de patience, votre box est prête. Dans le répertoire où vous avez tappez `vagrant ini`:
+Voilà, après pas mal de temps de patience, votre box est prête. Dans le répertoire où vous avez tappez `vagrant init`:
 
 ```
 vagrant ssh

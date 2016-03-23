@@ -2,6 +2,8 @@
 
 Box vagrant avec provisionning pour le cours de Méthode de Conception des Programmes à l'UCL. Dans le cadre de ce cours, pour un projet, on doit utiliser les outils OpenJML ainsi que le prouveur Z3. Néanmoins ces outils sont limités pour le moment à Java 1.7. Afin de séparer les outils à utiliser pour le cours des outils faisant partit de notre environnement de développement (et donc éviter de trop chipoter dans notre système principal), nous allons mettre en place à base de [vagrant](https://www.vagrantup.com/).
 
+On peut très bien utilsier les salles INGI pour travailler dessus, par ssh ou en accès directe, mais pour les situations où on ne peut pas se déplacer ou si on a pas internet pour travailler, c'est un peu handicapant. 
+
 ## Install
 
 ### Dépendences

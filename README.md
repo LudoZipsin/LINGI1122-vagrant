@@ -59,6 +59,8 @@ cd /vagrant
 jml HelloWorld.java
 ```
 
+*/!\ attention, vous aurez une erreure en utilisant la plupart des .java des TP à cause d'un charactère __é__ dans les commentaire en début de document (pour le prénom d'un contributeur: José). Il faudra le supprimer pour le remplacer par un simple __e__. Je l'avais retiré dans le fichier de test pour vérifier que OpenJML était bien installé, mais il semble que ce problème est dans tous les fichiers .java fournit*
+
 Pour quitter votre machine virtuelle (tout simplement):
 
 ```
